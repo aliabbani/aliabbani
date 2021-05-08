@@ -16,7 +16,7 @@
 - 👯 Degrees: Bachelor's Business Admistration
 - 😄 Language: English, French, Arabic
 - 🌱 Status: 'Currently learning and looking for a new job opportunity'
-- 📫 How to reach me aliabbani08@gmail.com
+- 📫 Reach me on aliabbani08@gmail.com
 
 
 
