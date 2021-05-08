@@ -1,7 +1,7 @@
 ### Hi I'm Ali Abbani! 👋
 
 <p align="center">
-   <img widht="auto" height="auto" src="images/ali-abbani.png>
+   <img widht="auto" height="auto" src="images/ali-abbani.png">
 </p>
 
 <p align="center">
