@@ -21,7 +21,7 @@
 
 
 ## Stats
-[![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliabbani&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliabbani&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliabbani&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
