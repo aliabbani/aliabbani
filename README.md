@@ -11,7 +11,8 @@
 
 ## About Me 👋:
 
-- 🔭 I’m currently training to become a full-stack software developer <a href="https://www.microverse.org/">Microverse Inc</a>
+- 💻 I am currently a freelance full-stack software developer
+- 🔭 I trained to become a full-stack software developer <a href="https://www.microverse.org/">Microverse Inc</a>
 - 💻 Code: JavaScript, HTML/CSS, Bootstrap, Ruby, Rails, React & Redux
 - 👯 Degrees: Bachelor's Business Admistration
 - 😄 Language: English, French, Arabic
